@@ -1,12 +1,10 @@
 #!/usr/bin/python3
-""" FizzBuzz
-"""
+"""FizzBuzz."""
 import sys
 
 
 def fizzbuzz(n):
-    """
-    FizzBuzz function prints numbers from 1 to n separated by a space.
+    """Fizzbuzz function prints numbers from 1 to n separated by a space.
 
     - For multiples of three print "Fizz" instead of the number and for
       multiples of five print "Buzz".
